@@ -1,0 +1,122 @@
+.logo{
+    width: 118.07px;
+    height:35px ;
+    margin-top: 35px;
+    margin-left: 110px;
+}
+.nav_edit{
+    margin-top: 20px;
+    margin-left: 300px;
+    
+}
+a{
+    margin-right: 20px;
+    text-emphasis-color: black;
+    /* specifies a gap of 30px on the right side */
+ }
+ .batton{
+    border-radius: 30px;
+    margin-left: 110px;
+ }
+ .text{
+    padding-top: 100px;
+    color:orangered;
+    padding-left: 110px;
+ }
+ .abc{
+    color: green;
+ }
+ .image2{
+    height: 336px;
+    width:  554px;
+    margin-top: 40px;
+    margin-left: 70px;
+ }
+ .containe{
+   background-color:#F0FFF0;
+   width: 100%;
+    height: 576px;
+ }
+ .bold{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+/* or 146% */
+color: #000000;
+padding-left: 110px;
+ }
+ .lorem{
+    padding-left: 110px;
+ }
+
+ .pad{
+    padding-top: 30px;
+ }
+ .book{
+    width: 66px;
+    height: 85px;
+    margin-left: 30px;
+ }
+ .bk_pad{
+    background-color: #F0FFF0;
+    border-radius: 10px;
+    height: 270px;
+    width: 270px;
+
+ }
+ .bk_pad1{
+   background: #FFFFFF;
+   box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+   border-radius: 10px; 
+   height: 270px;
+   width: 270px;
+
+}
+.middle{
+   height: 200px;
+   width: 100%;
+}
+
+.bk_pad2{
+   background: #FFFFFF;
+   box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+   border-radius: 18px;
+   height: 450px;
+   width: 370px;
+}
+.book1{
+   height:234px;
+   width:331px ;
+   margin-left: 18px;
+   margin-top: 10px;
+}
+.textedit{
+   margin-left: 18px;
+}
+.button{
+   border-radius: 30px;
+}
+.move{
+   margin-left: 80px;
+}
+.man{
+   height: 120px;
+   width: 120px;
+   margin-left: 400px;
+}
+.foot{
+   height: 200px;
+   width: 100%;
+}
+.footer{
+   width: 100%;
+   height: 369px;
+   background: #282531;
+   color: white;
+}
+.lastedit{
+   padding-top: 40px;
+}
+.lom{
+   margin-left: 100px;
+}
